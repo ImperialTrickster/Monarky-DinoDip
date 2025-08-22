@@ -16,6 +16,10 @@
 						"chancetodrop": 1
 					},
 					{
+						"dino": "/Game/ASA/Dinos/Cat/CAT_Character_BP.C",
+						"chancetodrop": 1
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",
 						"chancetodrop": 1
 					},
