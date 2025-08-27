@@ -3,10 +3,12 @@
 			"/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
 			"/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP_C",
 			"/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
-			"/Game/Packs/Steampunk/Dinos/HelperBot/HelperBot_Character_BP.HelperBot_Character_BP_C",
+			"/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP",
+			"/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
+			"/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP_C",
+			"/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP",
 			"/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP_C",
 			"/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
-			"/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP",
 			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
 		],
 		"weeksarrays": [
